@@ -30,7 +30,7 @@ const Header = () => {
             <li></li>
             <li>
               <Link to="/" className={isActivePath("/")}>
-                Home
+                Homes
               </Link>
             </li>
             <li>
