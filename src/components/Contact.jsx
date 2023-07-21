@@ -22,7 +22,7 @@ const Contact = () => {
                   <p className="u-align-justify u-text u-text-default u-text-2">
                     Mail: selcukeraslan1998@gmail.com
                     <br />
-                    Phone: +905318930990
+                    
                   </p>
                 </div>
               </div>
